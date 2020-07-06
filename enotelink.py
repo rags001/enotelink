@@ -1,3 +1,5 @@
+#To create a link list which reverses a pallindrome sequence in python
+
 # to create a link list node with pointers next and previous
 class Node:
     def __init__(self, data, prev=None, next=None):
